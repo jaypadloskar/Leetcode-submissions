@@ -1,1 +1,1 @@
-# SQL-Leetcode-submissions
+Leetcode-submissions
